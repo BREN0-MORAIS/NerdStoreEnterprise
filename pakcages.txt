@@ -1,0 +1,17 @@
+/*********************Identity*********************/
+
+- JwtBearer
+|_Suporte para trabalhar com Tokens JWT
+
+- Identity.UI
+|_ Não referece apenas a interface.
+
+- Identity.EntityFrameWorkCore
+|_ Suporte do provider do entity framework para o Identity.
+
+/*********************EntityFrameworkCore*********************/
+- EntityFramework
+|_Abstractions
+|_Relational
+|_SQL Server
+|_Tools

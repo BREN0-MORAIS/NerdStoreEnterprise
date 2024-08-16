@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NSE.Catalogo.API/1.0.0": {
+        "runtime": {
+          "NSE.Catalogo.API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NSE.Catalogo.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
